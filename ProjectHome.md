@@ -1,0 +1,1 @@
+Script Algoritma penjadwalan (FCFS) dengan C++
